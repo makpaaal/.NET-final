@@ -1,0 +1,117 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+  }
+  ul.header {
+    background-color:rgb(228, 155, 155);
+    padding: 0;
+  }
+  ul.header li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+  }
+  .content {
+    background-color: rgb(228, 155, 155);
+    padding: 10px;
+  }
+  .content h2 {
+    padding: 0;
+    margin: 0;
+  }
+  .content li {
+    margin-bottom: 10px;
+  }
+  .active {
+    background-color: #f44242;
+  }
+  
+  .Card{
+    border: solid 2px rgb(228, 155, 155);
+    height: 60px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  .deleteBtn1{
+    float: left;
+  }
+  .deleteBtn2{
+    float: right;
+  }
+  
+  .inputName{
+    box-sizing: border-box;
+    border: 2px solid rgb(228, 155, 155);
+    font-size: 20px;
+    margin-top: 20px;
+    width: 410px;
+    height: 20px;
+    text-align: left;
+     padding: 12px 20px 12px 4px;
+  }
+  .fileInput{
+     box-sizing: border-box;
+    font-size: 15px;
+    margin-top: 20px;
+    width: 100px;
+    height: 35px;
+    text-align: left;
+  }
+  .name {
+      margin-left: 10px;
+      min-width: 50px;
+      font-size: 17px;
+      font-family: 'FontAwesome'
+  }
+  
+  .btn1{
+    height: 42px;
+    width: 60px;
+    border: 2px solid rgb(228, 155, 155);
+    border-radius: 4px;
+    padding-bottom: 1px;
+    margin-top: 15px;
+  }
+  .btn1:hover{
+    color: red;
+  }
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  .category-table{
+    border: 2px solid white;
+    width: 1000px;
+    margin-left: 140pt;
+  }
+  .column-title{
+    border: 1px solid white;
+    background-color: #f44242;
+  }

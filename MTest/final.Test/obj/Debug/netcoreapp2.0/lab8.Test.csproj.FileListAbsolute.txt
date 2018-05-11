@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\obj\Debug\netcoreapp2.0\lab8.Test.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\obj\Debug\netcoreapp2.0\lab8.Test.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\obj\Debug\netcoreapp2.0\lab8.Test.AssemblyInfo.cs
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\lab8.Test.deps.json
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\lab8.Test.runtimeconfig.json
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\lab8.Test.runtimeconfig.dev.json
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\lab8.Test.dll
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\lab8.Test.pdb
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\lab8.dll
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\bin\Debug\netcoreapp2.0\lab8.pdb
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\obj\Debug\netcoreapp2.0\lab8.Test.dll
+C:\Users\admin\Desktop\3 course\dotNET\labs\MTest\lab8.Test\obj\Debug\netcoreapp2.0\lab8.Test.pdb
